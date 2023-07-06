@@ -9,9 +9,9 @@ ranger  |
 rofi    |
 dunst   |
 
-dotfiles    |
--------------
-.Xresources |
-.bashrc     |
-.zshrc      |
+dotfiles      |
+--------------|
+.Xresources   |
+.bashrc       |
+.zshrc        |
 
