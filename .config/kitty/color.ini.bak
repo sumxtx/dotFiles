@@ -1,0 +1,39 @@
+# special
+foreground:   #c2e2eb
+background:   #020405
+cursorColor:  #c2e2eb
+
+# black
+color0:       #050809
+color8:       #68c0d1
+
+# red
+color1:       #0f1618
+color9:       #ed9971
+
+# green
+color2:       #1d292b
+color10:      #d396ba
+
+# yellow
+color3:       #314246
+color11:      #f1dbd4
+
+# blue
+color4:       #4b6268
+color12:      #e0a9c9
+
+# magenta
+color5:       #698991
+color13:      #afa7df
+
+# cyan
+color6:       #8eb7c1
+color14:      #8fc4d0
+
+# white
+color7:       #cde7ee
+color15:      #d3da8b
+
+
+
