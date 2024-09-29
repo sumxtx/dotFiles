@@ -44,7 +44,7 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 [PlTm]: <https://github.com/sumxtx/dotFiles/tree/main/.config/tmux/tmux.conf>
 [PlPa]: <https://github.com/sumxtx/dotFiles/tree/main/.config/nvim/packerInstaller.sh>
 [PlDu]: <https://github.com/sumxtx/dotFiles/tree/main/.config/.vimrc>
-[PlNv]: <https://github.com/sumxtx/dotFiles/tree/main/.config/nvim>
+[PlNv]: <https://github.com/sumxtx/dotFiles/tree/main/.config/nvim/README.md>
 [PlVi]: <https://github.com/sumxtx/dotFiles/tree/main/.config/.vimrc>
 
 
