@@ -8,7 +8,7 @@
 | picom     | [/dotFiles/.config/picom/picom.conf][PlPi]|
 | kitty     | [/dotFiles/.config/kitty/kitty.conf][PlKi]|
 | tmux      | [/dotFiles/.config/tmux/tmux.conf][PlTm]|
-| nvim v0.10.1 | [/dotFiles/.config/nvim/tmux.conf][PlNv]|
+| nvim v0.10.1 | [/dotFiles/.config/nvim/][PlNv]|
 | vim | [/dotFiles/.config/.vimrc][PlVi]|
 | packer | [/dotFiles/.config/nvim/packerInstaller.sh][PlPa]|
 | dunst | [/dotFiles/.config/dunst/dunstrc][PlDu]|
