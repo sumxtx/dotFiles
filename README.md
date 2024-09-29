@@ -28,7 +28,9 @@ JetBrainsMono
 ```bash
 mkdir -p ~/.local/share/fonts/
 wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/JetBrainsMono.zip
+wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/NerdFontsSymbolsOnly.zip
 unzip JetBrainsMono.zip -d ~/.local/share/fonts/
+unzip -o NerdFontsSymbolsOnly.zip -d ~/.local/share/fonts/
 fc-cache -fv
 ```
 ### Tmux Package Manager (tpm)
