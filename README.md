@@ -8,7 +8,7 @@
 | picom     | [/dotFiles/.config/picom/picom.conf][PlPi]|
 | kitty     | [/dotFiles/.config/kitty/kitty.conf][PlKi]|
 | tmux      | [/dotFiles/.config/tmux/tmux.conf][PlTm]|
-| nvim v0.10.1 | [/dotFiles/.config/nvim/tmux.conf][PlNv]|
+| nvim v0.10.1 | [/dotFiles/.config/nvim/][PlNv]|
 | vim | [/dotFiles/.config/.vimrc][PlVi]|
 | packer | [/dotFiles/.config/nvim/packerInstaller.sh][PlPa]|
 | dunst | [/dotFiles/.config/dunst/dunstrc][PlDu]|
@@ -28,7 +28,9 @@ JetBrainsMono
 ```bash
 mkdir -p ~/.local/share/fonts/
 wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/JetBrainsMono.zip
+wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/NerdFontsSymbolsOnly.zip
 unzip JetBrainsMono.zip -d ~/.local/share/fonts/
+unzip -o NerdFontsSymbolsOnly.zip -d ~/.local/share/fonts/
 fc-cache -fv
 ```
 ### Tmux Package Manager (tpm)
@@ -44,7 +46,7 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 [PlTm]: <https://github.com/sumxtx/dotFiles/tree/main/.config/tmux/tmux.conf>
 [PlPa]: <https://github.com/sumxtx/dotFiles/tree/main/.config/nvim/packerInstaller.sh>
 [PlDu]: <https://github.com/sumxtx/dotFiles/tree/main/.config/.vimrc>
-[PlNv]: <https://github.com/sumxtx/dotFiles/tree/main/.config/nvim>
+[PlNv]: <https://github.com/sumxtx/dotFiles/tree/main/.config/nvim/README.md>
 [PlVi]: <https://github.com/sumxtx/dotFiles/tree/main/.config/.vimrc>
 
 
