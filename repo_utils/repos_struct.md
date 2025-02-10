@@ -37,3 +37,6 @@
   - [8bit CPU](https://github.com/sumxtx/8bitCPULogisimEVO)
   - [bare Metal Embedded](https://github.com/sumxtx/bareMetalEmbedded)
   - [ARM CortexMx](https://github.com/sumxtx/CortexMx_TaskScheduler)
+
+- _CodeWars_
+  - [Katas](https://github.com/sumxtx/Katas)
