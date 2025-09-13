@@ -1,9 +1,9 @@
 ## :open_file_folder:    _42 Projects_
 - [libft](https://github.com/sumxtx/Libft)
 - [ft_printf](https://github.com/sumxtx/ft_printf)
-- [get_next_line](to upload)
+- [get_next_line](https://github.com/sumxtx/Libft/tree/main/get_next_line)
 - [Born2beRoot](https://github.com/sumxtx/Born2beRoot)
-- [push_swap](to upload)
+- [push_swap](https://github.com/sumxtx/push_swap)
 - [pipex](to upload)
 - [minitalk](to upload)
 - [philosophers](to do)
@@ -20,6 +20,8 @@
 - _Intermediate Programming Concepts_
   - [Data Structures and Algorithms with Java](https://github.com/sumxtx/DSAJava)
   - [GNU Make Cheatsheet](https://github.com/sumxtx/gnuMakeCheatSheet)
+  - [C++ Design Patterns by Building Games](https://github.com/sumxtx/CppGamingProgramming)
+  - [Java Integrations and Frameworks](https://github.com/sumxtx/JavaGlobalMentory)
 
 - _Web pentesting_
   - [Port Swigger Academy Exercises](https://github.com/sumxtx/PortSwiggerAcademy)
